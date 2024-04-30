@@ -4,7 +4,7 @@
 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 🧠 Conhecimentos básicos em php, JavaScript, Java
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan-13&show_icons=true&btheme=city_lights)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan-13&show_icons=true&theme=city_lights)
 <!--
 **Kauan-13/Kauan-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
