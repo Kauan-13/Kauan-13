@@ -1,6 +1,8 @@
-Olá! Sou o Kauan!
+### Olá! Sou o Kauan!
 
-
+💻 Formação em Técnico de Informática
+🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
+🧠 Conhecimentos básicos em php, JavaScript, Java
 
 <!--
 **Kauan-13/Kauan-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
