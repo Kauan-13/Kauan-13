@@ -4,7 +4,6 @@
 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 🧠 Conhecimentos básicos em php, JavaScript, Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-13)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kauan-13/Kauan-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
