@@ -1,7 +1,7 @@
 ### Olá! Sou o Kauan!
 
 💻 Formação em Técnico de Informática
-🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
+🧑‍🎓 Formação em Análise e Desenvolvimento de Sistemas
 🧠 Conhecimentos básicos em php, JavaScript, Java
 
 <!--
